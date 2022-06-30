@@ -1,3 +1,2 @@
-#include<stdio.h>
-
-int mai
+#!/bin/bash
+gcc -E $CFILE -o c
