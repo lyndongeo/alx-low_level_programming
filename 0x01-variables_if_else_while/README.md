@@ -6,3 +6,4 @@ Task 5; Program that prints all digits of base 10
 Task 6; Program that prints single digits of base 10 using putchar
 Task 7; Program that prints alphabets in reverse
 Task 8; Program that prints dits of base 16
+Task 9; Program that prints all possible combinations of single-digit numbers
