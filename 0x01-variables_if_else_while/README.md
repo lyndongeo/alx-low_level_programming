@@ -9,3 +9,4 @@ Task 8; Program that prints dits of base 16
 Task 9; Program that prints all possible combinations of single-digit numbers
 Task 10; Program that prints all possible different combinations of two digits, the two digits must be different, printed in ascending order
 Task 11;program that prints all possible different combinations of three digits
+Task 12, program that prints all possible combinations of two two-digit numbers
