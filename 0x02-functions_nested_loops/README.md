@@ -8,3 +8,4 @@ Task 6; Function that computes the absolute value of an integer
 Task 7; Function that prints the last digit of a number
 Task 9; function that prints the 9 times table, starting with 0
 Task 10;function that adds two integers and returns the result.
+Task 11;  function that prints all natural numbers from n to 98
