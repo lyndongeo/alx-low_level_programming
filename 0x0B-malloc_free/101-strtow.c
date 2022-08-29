@@ -49,7 +49,7 @@ return (ptr);
  */
 int isSpace(char c)
 {
-  return (c == ' ');
+return (c == ' ');
 }
 
 /**
